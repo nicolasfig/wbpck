@@ -1,0 +1,27 @@
+{
+  "name": "wbpck",
+  "version": "1.0.0",
+  "description": "small project using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasfig/webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "webdev"
+  ],
+  "author": "Nicolas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasfig/webpack/issues"
+  },
+  "homepage": "https://github.com/nicolasfig/webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
